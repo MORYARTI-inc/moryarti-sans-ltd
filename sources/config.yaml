@@ -1,0 +1,7 @@
+sources:
+  - MoryartiSansLTD.glyphs
+familyName: Moryarti Sans LTD
+buildVariable: false
+buildStatic: true
+buildWebfont: true
+autohintTTF: false
