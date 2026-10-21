@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .DS_Store
 venv/
+sources/instance_ufos/
+sources/.ninja_log
+sources/build.ninja

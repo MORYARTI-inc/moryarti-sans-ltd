@@ -1,7 +1,9 @@
 sources:
-  - MoryartiSansLTD.glyphs
-familyName: Moryarti Sans LTD
+  - MoryartiSansLimited.glyphs
+familyName: Moryarti Sans Limited
 buildVariable: false
 buildStatic: true
+buildOTF: false
 buildWebfont: true
 autohintTTF: false
+extraFontmakeArgs: "--overlaps-backend pathops"
