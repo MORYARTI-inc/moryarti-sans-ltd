@@ -1,5 +1,5 @@
-fontmake
-gftools
-glyphsLib
-fonttools[woff]
-skia-pathops
+fontmake==3.11.1
+gftools==0.9.97
+glyphsLib==6.12.6
+skia-pathops==0.8.0.post2
+fonttools[woff]==4.60.2
