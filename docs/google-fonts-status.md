@@ -1,7 +1,7 @@
 # Google Fonts readiness — Moryarti Sans Limited
 
 Checked 2026-10-21 with Font Bakery 1.1.0 `check-googlefonts` on `fonts/ttf/MoryartiSansLimited-Regular.ttf` (built with
-`gftools builder sources/config.yaml`), with METADATA.pb, OFL.txt and the description: **0 FAIL**, 12 WARN.
+`gftools builder sources/config.yaml`), with METADATA.pb, OFL.txt and the description: **0 FAIL**, 11 WARN (with `documentation/article/`).
 
 ## Coverage
 - GF Latin Core: 319 / 319 (plus U+25CC dotted circle). Accented letters are components (base + mark, aligned by anchors);
@@ -16,7 +16,6 @@ Checked 2026-10-21 with Font Bakery 1.1.0 `check-googlefonts` on `fonts/ttf/Mory
 - unitsPerEm 4000 (not a power of 2) — allowed; needed for the halftone detail.
 - contour_count, overlapping_path_segments, outline_jaggy_segments, outline_semi_vertical — the halftone dots and the designer's construction.
 - vendor_id "MRYT" is not registered with Microsoft — optional to register.
-- article/images — no `documentation/article/` yet (optional, recommended).
 - designer_profiles — KENT MORI's profile was sent through Google's form on 2026-10-22 (`docs/designer-profile.md`); the warning stays until Google adds it.
 - metadata/category_hints — the name says "Sans", METADATA says DISPLAY; DISPLAY is intended.
 - metadata/unreachable_subsetting — the spacing marks U+02D8 / U+02D9 fall outside the latin subsets; harmless.
