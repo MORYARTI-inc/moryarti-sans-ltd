@@ -6,7 +6,7 @@ Checked 2026-10-21 with Font Bakery 1.1.0 `check-googlefonts` on `fonts/ttf/Mory
 ## Coverage
 - GF Latin Core: 319 / 319 (plus U+25CC dotted circle). Accented letters are components (base + mark, aligned by anchors);
   marks attach in running text through the `mark` feature.
-- Æ Œ Ø Ð Þ ẞ Ł Ħ § ¶ ª º ‹ › are first drafts assembled from existing outlines, for the designer to refine before submission.
+- Æ Œ Ø Ð Þ ẞ Ł Ħ § ¶ ª º ‹ › were assembled from existing outlines and reviewed and approved by the designer as they are in rev15.
 
 ## Vertical metrics
 - Typo = hhea 3977 / −1024, line gap 0, USE_TYPO_METRICS: capitals centred in the line, 125% of UPM 4000. Only the line
@@ -17,7 +17,7 @@ Checked 2026-10-21 with Font Bakery 1.1.0 `check-googlefonts` on `fonts/ttf/Mory
 - contour_count, overlapping_path_segments, outline_jaggy_segments, outline_semi_vertical — the halftone dots and the designer's construction.
 - vendor_id "MRYT" is not registered with Microsoft — optional to register.
 - article/images — no `documentation/article/` yet (optional, recommended).
-- designer_profiles — KENT MORI (the designer) has no Google Fonts designer profile yet; draft in `docs/designer-profile.md`, sent through Google's form.
+- designer_profiles — KENT MORI's profile was sent through Google's form on 2026-10-22 (`docs/designer-profile.md`); the warning stays until Google adds it.
 - metadata/category_hints — the name says "Sans", METADATA says DISPLAY; DISPLAY is intended.
 - metadata/unreachable_subsetting — the spacing marks U+02D8 / U+02D9 fall outside the latin subsets; harmless.
 - glyphsets/shape_languages, meta/script_lang_tags — informational.
@@ -26,5 +26,5 @@ Checked 2026-10-21 with Font Bakery 1.1.0 `check-googlefonts` on `fonts/ttf/Mory
 - Family name: "Moryarti Sans Limited". The Google Fonts submission form asks that the name not include the copyright
   holder's full name or acronyms; "Moryarti" is the copyright holder's name (MORYARTI inc.). Raise it with the Google Fonts
   team in the submission issue, and be ready to rename.
-- Disclose in the submission how AI tools were used in making the project (the form requires it).
+- Disclose in the submission how AI tools were used (the form requires it): the text is in `docs/google-fonts-submission.md`.
 - Tag the release (v1.000) once this is merged.
