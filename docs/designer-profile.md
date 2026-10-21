@@ -1,8 +1,8 @@
-# Google Fonts designer profile — Kent Mori (draft)
+# Google Fonts designer profile — KENT MORI
 
-The font credits **Kent Mori** as designer (name ID 9, METADATA `designer`); MORYARTI inc. stays the manufacturer and the
-copyright holder ("The Moryarti Sans Limited Project Authors"). Google Fonts shows a profile for each designer; until one
-exists, Font Bakery warns `designer_profiles: profile-not-found`.
+The font credits **KENT MORI** (always in capitals) as designer: name ID 9 and METADATA `designer`. MORYARTI inc. stays the
+manufacturer and the copyright holder ("The Moryarti Sans Limited Project Authors"). Google Fonts shows a profile for each
+designer; until one exists, Font Bakery warns `designer_profiles: profile-not-found`.
 
 ## What Google asks for (gf-guide, "Designer Profile")
 
@@ -14,16 +14,24 @@ exists, Font Bakery warns `designer_profiles: profile-not-found`.
   (https://googlefonts.github.io/gf-guide/profile.html); the Google Fonts team adds the profile. It usually appears 2–4 weeks
   after it is merged.
 
-## Draft
+## Profile
 
-Only what this project already states is filled in. Everything in [brackets] is for Kent Mori to write or confirm.
+- **Name**: KENT MORI
+- **Location**: Tokyo, Japan
+- **Link**: https://moryarti.design
+- **Photo**: `kentmori.jpg`, 300 × 300 px, black and white (kept out of this public repository; sent with the form)
+- **Bio** (94 words, 582 characters):
 
-> Kent Mori is a designer based in Asakusa, Tokyo, and [role, e.g. founder / art director] of MORYARTI inc., a creative
-> design studio working across advertising, games, web, motion and events. [One or two sentences on background and
-> approach.] Kent Mori drew Moryarti Sans Limited from the studio's own logotype: heavy geometric capitals in which strokes
-> dissolve into a printed halftone where a shadow would fall. [Notable projects or clients, if they may be named.]
+> KENT MORI leads MORYARTI inc., a creative design studio in Asakusa, Tokyo, working as an art director and UI artist
+> across advertising and game production. Representative work includes the I-Marine Project, the game World Flipper and
+> commercial work for YOASOBI. KENT MORI's work has been recognised with a Cannes Lions Bronze, the ADFEST Grand Prix and
+> the TDC, among others. Moryarti Sans Limited, drawn from the studio's own logotype, lets strokes dissolve into a printed
+> halftone wherever a shadow would fall. Away from the desk, KENT MORI is devoted to bonsai and classic cars.
 
-- Name as shown on Google Fonts: Kent Mori
-- Location: Tokyo, Japan
-- Links: https://moryarti.design [and, optionally, one social profile]
-- Photo: [square, 100–300 px]
+The bio uses the name instead of a pronoun.
+
+## To confirm before sending
+
+- The English title of アイマリンプロジェクト ("I-Marine Project" is a placeholder spelling).
+- Which TDC: Tokyo TDC or the Type Directors Club (New York), and whether it was an award or a selection.
+- The exact Cannes Lions and ADFEST entries, if Google or the press may ask for them.

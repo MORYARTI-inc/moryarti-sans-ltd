@@ -1,4 +1,4 @@
 # People who have contributed to the project.
 # Format: Name or Organization <email address>
 MORYARTI inc. <info@moryarti.design>
-Kent Mori
+KENT MORI
