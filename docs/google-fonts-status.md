@@ -17,7 +17,7 @@ Checked 2026-10-21 with Font Bakery 1.1.0 `check-googlefonts` on `fonts/ttf/Mory
 - contour_count, overlapping_path_segments, outline_jaggy_segments, outline_semi_vertical — the halftone dots and the designer's construction.
 - vendor_id "MRYT" is not registered with Microsoft — optional to register.
 - article/images — no `documentation/article/` yet (optional, recommended).
-- designer_profiles — MORYARTI inc. has no Google Fonts designer profile yet (submitted through Google's form).
+- designer_profiles — Kent Mori (the designer) has no Google Fonts designer profile yet; draft in `docs/designer-profile.md`, sent through Google's form.
 - metadata/category_hints — the name says "Sans", METADATA says DISPLAY; DISPLAY is intended.
 - metadata/unreachable_subsetting — the spacing marks U+02D8 / U+02D9 fall outside the latin subsets; harmless.
 - glyphsets/shape_languages, meta/script_lang_tags — informational.

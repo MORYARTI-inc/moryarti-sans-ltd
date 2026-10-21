@@ -1,5 +1,5 @@
 name: "Moryarti Sans Limited"
-designer: "MORYARTI inc."
+designer: "Kent Mori"
 license: "OFL"
 category: "DISPLAY"
 date_added: "2026-10-12"
