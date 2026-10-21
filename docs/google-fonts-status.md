@@ -21,11 +21,6 @@ Checked 2026-10-21 with Font Bakery 1.1.0 `check-googlefonts` on `fonts/ttf/Mory
 - metadata/unreachable_subsetting — the spacing marks U+02D8 / U+02D9 fall outside the latin subsets; harmless.
 - glyphsets/shape_languages, meta/script_lang_tags — informational.
 
-## Open: ss01
-- In rev15, `one.ss01`, `three.ss01` and `five.ss01` are exact copies of `one`, `three` and `five` (same outlines, halftone
-  included), so `ss01` changes nothing visible. README, DESCRIPTION and the submission text still describe it as "solid 1, 3
-  and 5"; the article does not mention it. Either the designer draws the solid figures, or the feature and those mentions go.
-
 ## Before submitting
 - Family name: "Moryarti Sans Limited". The Google Fonts submission form asks that the name not include the copyright
   holder's full name or acronyms; "Moryarti" is the copyright holder's name (MORYARTI inc.). Raise it with the Google Fonts
