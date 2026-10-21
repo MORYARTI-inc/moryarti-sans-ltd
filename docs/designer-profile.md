@@ -20,17 +20,16 @@ designer; until one exists, Font Bakery warns `designer_profiles: profile-not-fo
 - **Location**: Tokyo, Japan
 - **Link**: https://moryarti.design
 - **Photo**: `kentmori.jpg`, 300 × 300 px, black and white (kept out of this public repository; sent with the form)
-- **Bio** (94 words, 582 characters):
+- **Bio** (95 words, 588 characters):
 
 > KENT MORI leads MORYARTI inc., a creative design studio in Asakusa, Tokyo, working as an art director and UI artist
 > across advertising and game production. Representative work includes the I-Marine Project, the game World Flipper and
 > commercial work for YOASOBI. KENT MORI's work has been recognised with a Cannes Lions Bronze, the ADFEST Grand Prix and
-> the TDC, among others. Moryarti Sans Limited, drawn from the studio's own logotype, lets strokes dissolve into a printed
+> the Tokyo TDC, among others. Moryarti Sans Limited, drawn from the studio's own logotype, lets strokes dissolve into a printed
 > halftone wherever a shadow would fall. Away from the desk, KENT MORI is devoted to bonsai and classic cars.
 
 The bio uses the name instead of a pronoun.
 
 ## To confirm before sending
 
-- Which TDC: Tokyo TDC or the Type Directors Club (New York), and whether it was an award or a selection.
 - The exact Cannes Lions and ADFEST entries, if Google or the press may ask for them.
