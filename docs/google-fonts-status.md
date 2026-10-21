@@ -6,6 +6,7 @@ Checked 2026-10-21 with Font Bakery 1.1.0 `check-googlefonts` on `fonts/ttf/Mory
 ## Coverage
 - GF Latin Core: 319 / 319 (plus U+25CC dotted circle). Accented letters are components (base + mark, aligned by anchors);
   marks attach in running text through the `mark` feature.
+- Version 1.001 (designer's rev16): `ss01` gives solid 1, 3 and 5 (until 1.000 the .ss01 figures were copies of the halftone ones).
 - Æ Œ Ø Ð Þ ẞ Ł Ħ § ¶ ª º ‹ › were assembled from existing outlines and reviewed and approved by the designer as they are in rev15.
 
 ## Vertical metrics
