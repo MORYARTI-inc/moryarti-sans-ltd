@@ -1,7 +1,16 @@
 # Google Fonts readiness — Moryarti Sans Limited
 
-Checked 2026-10-21 with Font Bakery 1.1.0 `check-googlefonts` on `fonts/ttf/MoryartiSansLimited-Regular.ttf` (built with
-`gftools builder sources/config.yaml`), with METADATA.pb, OFL.txt and the description: **0 FAIL**, 11 WARN (with `documentation/article/`).
+Checked 2026-10-28 with Font Bakery 1.1.0 `check-googlefonts` on `fonts/ttf/MoryartiSansLimited-Regular.ttf` (built with
+`gftools builder sources/config.yaml`), with METADATA.pb, OFL.txt and the description: **0 FAIL, 0 ERROR**, 11 WARN (with `documentation/article/`).
+Validated in a Google Fonts family-directory layout with METADATA.pb, OFL.txt and article/; the article replaces DESCRIPTION.en_us.html for this check.
+Full report: `docs/qa/rev17-fontbakery.md`.
+
+## Version 1.002 — designer rev17
+
+- Built from `MoryartiSans-rev17.glyphs`, preserving its kerning edits: the plain capital N no longer has a left kerning group.
+- Retained the existing Limited metadata, OFL, vertical metrics and removal of the five company/logo glyphs and liga/dlig features.
+- All 327 glyph outlines and the 322 Unicode mappings match version 1.001; ss01 remains functional.
+- Export preparation and checks assisted by OpenAI Codex; no new glyph outlines were generated.
 
 ## Coverage
 - GF Latin Core: 319 / 319 (plus U+25CC dotted circle). Accented letters are components (base + mark, aligned by anchors);
@@ -27,4 +36,4 @@ Checked 2026-10-21 with Font Bakery 1.1.0 `check-googlefonts` on `fonts/ttf/Mory
   holder's full name or acronyms; "Moryarti" is the copyright holder's name (MORYARTI inc.). Raise it with the Google Fonts
   team in the submission issue, and be ready to rename.
 - Disclose in the submission how AI tools were used (the form requires it): the text is in `docs/google-fonts-submission.md`.
-- Tag the release (v1.000) once this is merged.
+- Version 1.002 is prepared for review; tag the release after merging.

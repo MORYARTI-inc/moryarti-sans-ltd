@@ -3,7 +3,6 @@
 .formatVersion = 3;
 DisplayStrings = (
 "́",
-"^",
 "̧̨̦̀́̂̃̄̆̇̈̊̋̌ÆŒØÐÞẞŁĦ§¶ªº‹›",
 "°",
 "̊ O",
@@ -14,7 +13,9 @@ BNBMBNBNXOBOR
 
 BNVOBOXQX
 ",
-"🔎"
+"NA
+MA",
+"̌"
 );
 axes = (
 {
@@ -159,7 +160,7 @@ glyphs = (
 glyphname = A;
 kernLeft = A;
 kernRight = A;
-lastChange = "2025-07-23 09:10:16 +0000";
+lastChange = "2026-10-28 01:59:24 +0000";
 layers = (
 {
 anchors = (
@@ -3564,6 +3565,9 @@ ref = D;
 layerId = m01;
 shapes = (
 {
+ref = D;
+},
+{
 closed = 1;
 nodes = (
 (1601,1260,l),
@@ -3571,9 +3575,6 @@ nodes = (
 (-280,1700,l),
 (-280,1260,l)
 );
-},
-{
-ref = D;
 }
 );
 width = 3248;
@@ -10972,6 +10973,9 @@ ref = H;
 layerId = m01;
 shapes = (
 {
+ref = H;
+},
+{
 closed = 1;
 nodes = (
 (3460,2150,l),
@@ -10979,9 +10983,6 @@ nodes = (
 (-60,2587,l),
 (-60,2150,l)
 );
-},
-{
-ref = H;
 }
 );
 width = 3400;
@@ -22074,6 +22075,9 @@ ref = L;
 layerId = m01;
 shapes = (
 {
+ref = L;
+},
+{
 closed = 1;
 nodes = (
 (1765,2393,l),
@@ -22081,9 +22085,6 @@ nodes = (
 (-271,1217,l),
 (-271,522,l)
 );
-},
-{
-ref = L;
 }
 );
 width = 1938;
@@ -25418,9 +25419,8 @@ unicode = 77;
 },
 {
 glyphname = N;
-kernLeft = N;
 kernRight = N;
-lastChange = "2026-10-11 20:03:13 +0000";
+lastChange = "2026-10-28 01:58:02 +0000";
 layers = (
 {
 anchors = (
@@ -140201,5 +140201,5 @@ stems = (
 );
 unitsPerEm = 4000;
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
